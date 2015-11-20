@@ -4,8 +4,11 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Bensquire\\GoogleStaticMap \\": "src/"
+            "Bensquire\\GoogleStaticMap\\": "src/"
         }
+        "classmap": [
+            "src/"
+        ]
     },
     "minimum-stability": "stable"
 }
