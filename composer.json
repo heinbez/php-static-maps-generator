@@ -1,0 +1,16 @@
+{
+    "name": "bensquire/php-static-maps-generator",
+    "description": "Static Map Generator",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [],
+    "require": {
+        "php": ">=5.4.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "Bensquire\\GoogleStaticMap \\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
